@@ -18,4 +18,4 @@ Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sHKamil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sHKamil&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sHKamil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sHKamil&stroke=ffffff&background=0D1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
